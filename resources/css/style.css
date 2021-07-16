@@ -48,10 +48,11 @@ img {
     padding-bottom: 30px;
 }
 
-.copyright {
-    text-align: start;
+p {
+    font-size: 21px;
+    color: gray;
 }
 
-.copyright:before {
-    content:"\00a9 me";
-  }
+.footer {
+    text-align: right;
+}
